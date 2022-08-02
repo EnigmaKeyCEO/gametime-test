@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "StoneX",
+    "slug": "StoneX",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "StoneX"
+}
