@@ -1,11 +1,17 @@
 {
   "expo": {
-    "name": "StoneX",
-    "slug": "StoneX",
+    "name": "GameTime",
+    "slug": "gametime",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "android": {
+      "package": "com.devcoup.gametime"
+    },
+    "ios": {
+      "bundleIdentifier": "com.devcoup.gametime"
+    }
   },
-  "name": "StoneX"
+  "name": "GameTime"
 }
